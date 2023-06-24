@@ -1,5 +1,5 @@
 <div align="center">
-  <div class=https://tenor.com/id/view/cardano-ada-ada-lovelace-lovelace-blockchain-gif-20051589>
+  <img src="https://tenor.com/view/cardano-ada-ada-lovelace-lovelace-blockchain-gif-20051589" alt="GIF Cardano" />
 </div>
 
 
