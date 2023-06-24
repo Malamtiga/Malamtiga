@@ -1,9 +1,11 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="20051589" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/cardano-ada-ada-lovelace-lovelace-blockchain-gif-20051589">Cardano Ada GIF</a>from <a href="https://tenor.com/search/cardano-gifs">Cardano GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <div class="tenor-gif-embed" data-postid="20051589" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%">
+    <a href="https://tenor.com/view/cardano-ada-ada-lovelace-lovelace-blockchain-gif-20051589">Cardano Ada GIF</a>from <a href="https://tenor.com/search/cardano-gifs">Cardano GIFs</a>
+  </div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
-
-# Selamat Datang di Profil Saya
+<h1 align="center">Selamat Datang di Profil Saya</h1>
 
 <div align="center">
   <a href="https://api.whatsapp.com/qr/EM2UNBYDOPMKJ1?autoload=1&app_absent=0">
@@ -17,12 +19,12 @@
   </a>
 </div>
 
-## Tentang Saya
+<h2 align="center">Tentang Saya</h2>
 
-🔭 Saya saat ini sedang menempuh pendidikan. <br>
-🌱 Saya antusias dalam belajar dan mengeksplorasi teknologi baru di bidang pengembangan perangkat lunak.
+<p align="center">Saya saat ini sedang menempuh pendidikan.</p>
+<p align="center">Saya antusias dalam belajar dan mengeksplorasi teknologi baru di bidang pengembangan perangkat lunak.</p>
 
-## Keahlian
+<h2 align="center">Keahlian</h2>
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" />
@@ -33,6 +35,8 @@
   <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" />
 </div>
 
-## Kutipan Inspiratif
+<h2 align="center">Kutipan Inspiratif</h2>
 
-"Belajar adalah perjalanan, bukan tujuan akhir. Nikmati prosesnya dan hadapi tantangan di sepanjang jalan." - Tidak Diketahui
+<blockquote align="center">
+  "Belajar adalah perjalanan, bukan tujuan akhir. Nikmati prosesnya dan hadapi tantangan di sepanjang jalan." - Tidak Diketahui
+</blockquote>
