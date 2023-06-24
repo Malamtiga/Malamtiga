@@ -1,8 +1,5 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="20051589" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%">
-    <a href="https://tenor.com/view/cardano-ada-ada-lovelace-lovelace-blockchain-gif-20051589">Cardano Ada GIF</a>from <a href="https://tenor.com/search/cardano-gifs">Cardano GIFs</a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/bk9uN.gif" alt="Cardano Ada GIF" />
 </div>
 
 <h1 align="center">Selamat Datang di Profil Saya</h1>
