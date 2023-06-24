@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/bjH23.gif" alt="GIF" style="width: 100%; height: auto;">
+  <img src="https://tenor.com/bjH23.gif" alt="GIF" width="100%" />
 </div>
 
 # Selamat Datang di Profil Saya
